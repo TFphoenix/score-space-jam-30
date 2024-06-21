@@ -1,7 +1,3 @@
-### Unreal Add-ons
-Content/StarterContent/*
-Content/Fantastic_Village_Pack/*
-
 ### CUSTOM RULES
 !*.gitkeep
 !.vscode/c_cpp_properties.json
