@@ -1,15 +1,15 @@
 ## 3D Models
 
-### ice-cube
-
 "Ice Cube" (https://skfb.ly/6XzGu) by Polychromic is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 ## Images
 
-### IceCube.png
-
-Image by <a href="https://pixabay.com/users/hungquach679png-23795504/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7096787">HUNG QUACH</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7096787">Pixabay</a>
+<a href="https://www.flaticon.com/free-icons/frozen" title="frozen icons">Frozen icons created by Freepik - Flaticon</a>
 
 ## Textures
 
 Textures under CC0 License from 3D TEXTURES (https://3dtextures.me)
+
+## Fonts
+
+Icecold Font by Vladimir Nikolic on dafont.com (https://www.dafont.com/icecold-3.font)
