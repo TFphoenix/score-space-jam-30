@@ -2,6 +2,7 @@
 !*.gitkeep
 !.vscode/c_cpp_properties.json
 *.blend?
+Plugins/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,xcode,macos,windows,c++,unrealengine
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,xcode,macos,windows,c++,unrealengine
