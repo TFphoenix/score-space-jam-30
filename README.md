@@ -7,7 +7,7 @@
 - **Submission:** [Ice Cube - Score Space Jam #30 Submission](https://itch.io/jam/scorejam30/rate/2793541)
 - **Game Page:** https://tfphoenix.itch.io/ice-cube
 
-> Also see [©Copyright Credits](./CREDITS.md).
+> Also see [©Copyright Credits](./CREDITS.md)
 
 ## ❗ Project Dependencies
 
