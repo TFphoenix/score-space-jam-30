@@ -1,6 +1,6 @@
 ![Ice Cube](Art/Images/Artwork/Artwork_Banner.png)
 
-# Score Space Jam #30 (2024): Ice Cube
+# Score Space Jam #30 (2024) - Ice Cube
 
 - **Author:** Teodor-Adrian Mihaescu
 - **Game Jam Page:** https://itch.io/jam/scorejam30
