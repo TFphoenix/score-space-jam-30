@@ -1,3 +1,5 @@
+![Ice Cube](Art/Images/Artwork/Artwork_Banner.png)
+
 # Score Space Jam #30 (2024) - Project Source Code
 
 - **Author:** Teodor-Adrian Mihaescu
